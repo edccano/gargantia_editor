@@ -107,3 +107,6 @@ The work provided in this repository is Copyright Turbulenz Limited 2014 unless 
 
 Our thanks to all involved at Turbulenz, Microsoft and Production IG.
 
+edccano Message
+
+Bueno, parece que me he reencontrado con esto. La verdad es que no entiendo NADA de NADA de lo que trata de explicar aqui, asi que tomaré esto y emprenderé para aprender la programación y tal vez en un futuro correr esto en un executable :D
